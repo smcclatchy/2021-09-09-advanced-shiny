@@ -313,13 +313,6 @@ of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
 {% endcomment %}
 
-<h2 id="schedule">Schedule</h2>
-{% include none/schedule.html %}
-
-
-<hr/>
-
-
 {% comment %}
 SETUP
 
